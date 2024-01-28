@@ -18,8 +18,7 @@
 # 🔴Ｓｅｔｔｉｎｇｓ
 
 <p align="center">
-  <img src="https://github.com/buuzuun/Sea-of-Thieves-menu/assets/157957454/f5d90921-d8a1-4198-b098-b2ae11c213d6
-">
+  <img src="https://github.com/buuzuun/Sea-of-Thieves-menu/assets/157957454/f5d90921-d8a1-4198-b098-b2ae11c213d6">
 </p>
 
 * Display NPC
